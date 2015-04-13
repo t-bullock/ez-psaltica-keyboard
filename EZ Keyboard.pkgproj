@@ -615,7 +615,7 @@
 				<key>LOCATION</key>
 				<integer>0</integer>
 				<key>NAME</key>
-				<string>EZ Keyboard</string>
+				<string>EZ Psaltica Keyboard</string>
 				<key>OVERWRITE_PERMISSIONS</key>
 				<false/>
 				<key>VERSION</key>
@@ -1016,7 +1016,7 @@
 				</dict>
 			</array>
 			<key>NAME</key>
-			<string>EZ Keyboard</string>
+			<string>EZ Psaltica Keyboard</string>
 		</dict>
 	</dict>
 	<key>SHARED_GLOBAL_DATA</key>
