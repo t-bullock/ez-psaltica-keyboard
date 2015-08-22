@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2015-01-30 at 15:37 (EST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-08-21 at 21:33 (EDT)-->
 <!---->
 <!--Created by Ukelele version 2.2.8 on 2015-01-28 at 13:27 (EST)-->
 <keyboard group="0" id="13410" name="EZ Psaltica" maxout="1">
@@ -1092,7 +1092,7 @@
             <when state="s4" output="Ÿ"/>
         </action>
         <action id="13">
-            <when state="none" output=""/>
+            <when state="none" output=""/>
             <when state="s1" output="á"/>
             <when state="s2" output="à"/>
             <when state="s3" output="â"/>
